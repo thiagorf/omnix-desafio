@@ -7,7 +7,7 @@ export const Header = () => {
         Net<span className="text-brand font-bold">Solutions</span>
       </Link>
 
-      <Link to="" className="text-xl">
+      <Link to="https://github.com/thiagorf/omnix-desafio" className="text-xl">
         Quem Somos
       </Link>
     </header>
